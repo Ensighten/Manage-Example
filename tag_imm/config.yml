@@ -1,0 +1,4 @@
+executionTime: immediate
+conditions:
+  - global_asynchronous
+  - all_values

@@ -1,0 +1,3 @@
+executionTime: dom_loaded
+conditions:
+  - global_asynchronous

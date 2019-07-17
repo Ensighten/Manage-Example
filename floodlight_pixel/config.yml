@@ -1,0 +1,3 @@
+executionTime: dom_parsed
+conditions:
+  - global_asynchronous
