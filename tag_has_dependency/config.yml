@@ -1,0 +1,6 @@
+executionTime: dom_loaded
+conditions:
+  - global_asynchronous
+dependentDeployments:
+    - deploymentName: tag_imm
+      spaceName: space-base
