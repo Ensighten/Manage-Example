@@ -1,0 +1,9 @@
+---
+name: "trigger and extractor - file"
+collection: "Session"
+source: "Manage"
+persistence: "session"
+description: "This gets created using a custom trigger function and a custom extractor function"
+spaceNames: []
+criteriaNames:
+modifierNames: []

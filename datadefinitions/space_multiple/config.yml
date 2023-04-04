@@ -1,0 +1,12 @@
+---
+name: "space - multiple"
+collection: "Session"
+source: "Manage"
+persistence: "page"
+description: "This gets created with 2 spaces"
+criteriaNames:
+spaceNames:
+  - "dev"
+  - "stage"
+modifierNames: []
+trigger: "Bootstrapper.data.bottomOfBodyTrigger"

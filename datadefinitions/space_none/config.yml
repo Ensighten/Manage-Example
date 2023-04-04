@@ -1,0 +1,9 @@
+---
+name: "space - none"
+collection: "Session"
+source: "Manage"
+persistence: "page"
+description: "This gets created globally, meaning in account-wide"
+criteriaNames:
+modifierNames: []
+trigger: "Bootstrapper.data.bottomOfBodyTrigger"

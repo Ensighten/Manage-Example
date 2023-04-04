@@ -1,0 +1,11 @@
+---
+name: "modifiers -one"
+collection: "Session"
+source: "Manage"
+persistence: "page"
+description: "This gets created with 1 modifer"
+spaceNames:
+criteriaNames:
+modifierNames:
+  - "Make uppercase"
+trigger: "Bootstrapper.data.bottomOfBodyTrigger"

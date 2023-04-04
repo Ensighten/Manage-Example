@@ -1,0 +1,9 @@
+---
+name: "modifiers - none"
+collection: "Session"
+source: "Manage"
+persistence: "page"
+description: "This gets created with no modifers"
+spaceNames:
+criteriaNames:
+trigger: "Bootstrapper.data.bottomOfBodyTrigger"

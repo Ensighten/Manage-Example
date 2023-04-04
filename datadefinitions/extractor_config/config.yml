@@ -1,0 +1,11 @@
+---
+name: "extractor - config"
+collection: "Session"
+source: "Manage"
+persistence: "page"
+description: "This gets created with a non-custom extractor function."
+spaceNames: []
+criteriaNames: []
+modifierNames: []
+fromName: "window.somevariablename"
+fromType: "JavaScript Variable"

@@ -1,0 +1,9 @@
+---
+name: "extractor - file"
+collection: "Session"
+source: "Manage"
+persistence: "page"
+description: "This gets created with a custom extractor function."
+spaceNames: []
+criteriaNames: []
+modifierNames: []

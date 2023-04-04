@@ -1,0 +1,10 @@
+---
+name: "condition - one"
+collection: "Session"
+source: "Manage"
+persistence: "page"
+description: "This gets created with 1 condition"
+criteriaNames:
+  - ensighten sitewide
+modifierNames: []
+trigger: "Bootstrapper.data.bottomOfBodyTrigger"

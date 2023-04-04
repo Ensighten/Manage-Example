@@ -1,0 +1,9 @@
+---
+name: "condition - none"
+collection: "Session"
+source: "Manage"
+persistence: "page"
+description: "This gets created with the global synchronous condition"
+criteriaNames:
+modifierNames: []
+trigger: "Bootstrapper.data.bottomOfBodyTrigger"

@@ -1,0 +1,11 @@
+---
+name: "trigger - file"
+collection: "Session"
+source: "Manage"
+persistence: "session"
+description: "This gets created using a custom trigger, meaning from the trigger_function.js file"
+spaceNames: []
+criteriaNames:
+modifierNames: []
+fromName: "window.somevariablename"
+fromType: "JavaScript Variable"

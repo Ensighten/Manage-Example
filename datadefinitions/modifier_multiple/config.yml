@@ -1,0 +1,14 @@
+---
+name: "modifiers - multiple"
+collection: "Session"
+source: "Manage"
+persistence: "page"
+description: "This gets created with 2 modifers"
+trigger: "Bootstrapper.data.bottomOfBodyTrigger"
+fromName: "window.somevariablename"
+fromType: "JavaScript Variable"
+spaceNames:
+criteriaNames:
+modifierNames:
+  - "Make uppercase"
+  - "Remove special characters"

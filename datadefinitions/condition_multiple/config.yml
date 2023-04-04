@@ -1,0 +1,11 @@
+---
+name: "condition - multiple"
+collection: "Session"
+source: "Manage"
+persistence: "page"
+description: "This gets created with 2 conditions"
+criteriaNames:
+  - ensighten sitewide
+  - all_values
+modifierNames: []
+trigger: "Bootstrapper.data.bottomOfBodyTrigger"

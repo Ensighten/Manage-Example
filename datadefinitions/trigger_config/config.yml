@@ -1,0 +1,12 @@
+---
+name: "trigger - config"
+collection: "Session"
+source: "Manage"
+persistence: "session"
+description: "This gets created using a prebuilt trigger"
+spaceNames: []
+criteriaNames:
+modifierNames: []
+fromName: "window.somevariablename"
+fromType: "JavaScript Variable"
+trigger: "Bootstrapper.data.bottomOfBodyTrigger"

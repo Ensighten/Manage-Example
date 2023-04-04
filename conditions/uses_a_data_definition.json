@@ -1,0 +1,10 @@
+{
+  "name" : "uses a data definition",
+  "conditionValues" : [ {
+    "typeId" : 30,
+    "dataDefId": 12345, 
+    "value" : "some value test",
+    "comparatorId" : 2,
+    "modifierIds" : [ 2 ]
+  } ]
+}

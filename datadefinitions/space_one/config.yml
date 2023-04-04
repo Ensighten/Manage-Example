@@ -1,0 +1,11 @@
+---
+name: "space - one"
+collection: "Session"
+source: "Manage"
+persistence: "page"
+description: "This gets created with one space"
+spaceNames:
+  - "dev"
+criteriaNames:
+modifierNames: []
+trigger: "Bootstrapper.data.bottomOfBodyTrigger"
