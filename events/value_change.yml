@@ -1,0 +1,9 @@
+---
+name: Value Change test
+type: data
+dataDefinitionName: totalCost
+dataDefinitionCollection: ShoppingCart
+fireWhenFirstSet: false
+fireWhenValueUpdated: true
+conditionNames:
+    - all_values

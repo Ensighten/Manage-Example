@@ -1,0 +1,6 @@
+---
+name: Named Event test
+type: named
+conditionNames:
+  - ensighten sitewide
+  - all_values
