@@ -1,0 +1,5 @@
+executionTime: immediate
+events: 
+  - Page Action sample
+conditions:
+  - global_asynchronous
