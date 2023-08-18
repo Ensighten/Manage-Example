@@ -5,4 +5,5 @@ A `master` branch supports the following objects:
 
 - Conditions
 - Data Definitions
+- Events
 
