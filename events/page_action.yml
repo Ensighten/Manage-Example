@@ -1,5 +1,5 @@
 ---
-name: Page Action Test
+name: Page Action Sample
 type: page_action
 elementType: css_selector
 data: .buttonSubmit

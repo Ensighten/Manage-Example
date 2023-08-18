@@ -1,5 +1,5 @@
 ---
-name: Value Change test
+name: Value Change Sample
 type: data
 dataDefinitionName: totalCost
 dataDefinitionCollection: ShoppingCart

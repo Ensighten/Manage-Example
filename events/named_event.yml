@@ -1,5 +1,5 @@
 ---
-name: Named Event test
+name: Named Event Sample
 type: named
 conditionNames:
   - ensighten sitewide
